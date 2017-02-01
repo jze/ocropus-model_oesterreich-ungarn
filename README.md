@@ -8,7 +8,7 @@ The model is trained from scratch because of the various diacritical signs. You 
 
 ![error rate during model learning](error.png)
 
-The model here is iteration 18,000. The data for the plot as well as a Gnuplot script is also contained in the root directory.
+The model here is iteration 40,000. The data for the plot as well as a Gnuplot script is also contained in the root directory.
 
 I have used the scans from the Landesbibliothek Oberösterreich
 http://digi.landesbibliothek.at
